@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    padding: 15px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+}
+
+.userNav {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    font-size: 18px;
+
+}
+
+.logo {
+    margin-right: 15px;
+}
+
+.login {
+    text-decoration: none;
+    color: black;
+}
+
+.signup {
+    color: white;
+    background-color: #499F68;
+    padding: 10px;
+    border-radius: 5px;
+}
+

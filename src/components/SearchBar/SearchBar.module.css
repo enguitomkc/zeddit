@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+
+}
+
+.input {
+    font-size: 16px;
+    padding: 7px;
+    border-radius: 10px;
+    background-color: rgb(246, 247, 248);
+    border: 1px solid rgba(159, 159, 160, 0.884);
+    color: #222222;
+}

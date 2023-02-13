@@ -1,0 +1,46 @@
+.title {
+    padding: 20px;
+    background-color: #632B30;
+    color: white;
+}
+
+.main {
+    background-color: #DAE0E6;
+    padding: 20px 80px;
+}
+
+.postContainer {
+    display: flex;
+}
+
+.articleContainer {
+    background-color: #ffffff;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 0 5px 5px 0;
+}
+
+.articlePageContainer {
+    background-color: #ffffff;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.voteContainer {
+    background-color: #f7f3f3;
+    padding: 5px;
+    margin-top: 10px;
+    border-radius: 5px 0 0 5px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.numComments {
+    margin-top: 5px;
+}
+
+
+
+

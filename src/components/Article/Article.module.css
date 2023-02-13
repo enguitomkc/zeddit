@@ -1,0 +1,10 @@
+.context {
+    margin-top: 20px;
+}
+
+
+.context.unopened {
+    max-height: 100px;
+    overflow: hidden;
+}
+
